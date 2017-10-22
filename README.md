@@ -17,3 +17,8 @@ public class App extends Application {
 ```java
 AndroidApktool.run(new String[] { "d", apkPath, "-f", outputPath });
 ```
+
+## License
+Copyright 2017 Kiva <kiva515@foxmail.com>
+
+Code released under the MIT License.
